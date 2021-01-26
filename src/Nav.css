@@ -1,0 +1,16 @@
+.Nav {
+  background-color: black;
+  color: white;
+  width: 80%;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.Nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.Nav a:active {
+  text-decoration: underline;
+}

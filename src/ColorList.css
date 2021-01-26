@@ -1,0 +1,12 @@
+.ColorList ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.ColorList {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 0 auto;
+  align-items: center;
+}
